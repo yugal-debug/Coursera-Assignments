@@ -1,0 +1,81 @@
+.box1{
+			width: 400px;
+			
+			background-color: orange;
+			border-color: black;
+            border-width: 5px ;     
+             border-style: solid;
+            padding: 20px;
+            text-align: center;
+            font-family: cursive;
+            float: left;
+            margin-left: 20px;
+            margin-right: 20px;
+            margin-bottom: 30px;
+		}
+		.box2{
+			width: 400px;
+			
+			background-color: red;
+			border-color: black;
+            border-width: 5px ;     
+             border-style: solid;
+            padding: 20px;
+            text-align: center;
+            font-family: cursive;
+            float: left;
+            margin-left: 20px;
+            
+            margin-right: 20px;
+            margin-bottom: 30px;
+		}
+		.box3{
+			width: 400px;
+			
+			background-color: yellow;
+			border-color: black;
+            border-width: 5px ;     
+             border-style: solid;
+            padding: 20px;
+            text-align: center;
+            font-family: cursive;
+            float: left;
+            margin-left: 20px;
+            
+		}
+		.heading{
+			font-size:  50px;
+			text-align: center;
+			padding: 10px;
+			font-family: Verdana;
+			color: black;
+			margin-top: 3px;
+			margin-bottom: 30px;
+		}
+		.heading1{
+			text-align: center;
+			padding: 10px;
+			font-family: Verdana;
+			color: blue;
+			margin-top: 3px;
+			margin-bottom: 3px;
+		}
+		.heading2{
+			text-align: center;
+			padding: 10px;
+			font-family: Verdana;
+			color: yellow;
+			margin-top: 3px;
+			margin-bottom: 3px;
+		}
+		.heading3{
+			text-align: center;
+			padding: 10px;
+			font-family: Verdana;
+			color: blue;
+			margin-top: 3px;
+			margin-bottom: 3px;
+		}
+		.white{
+			color: white;
+		}
