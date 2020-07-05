@@ -1,0 +1,19 @@
+#header-nav{
+	background-color: grey;
+	border-radius: 0;
+	border: 0;
+}
+body{
+
+	font-family: 'Acme', sans-serif;
+}
+.magic{
+	height: 1500px;
+	background-color: grey;
+	margin: 15px;
+	padding: 15px;
+}
+h2{
+	margin-top: 20px;
+	margin-bottom: 50px;
+}
